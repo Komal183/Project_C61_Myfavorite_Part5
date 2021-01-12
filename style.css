@@ -1,0 +1,145 @@
+body
+{
+    text-align: center;
+    background: linear-gradient( #fa9134 0%,#fadb41 50%, #ec77f7 100%);
+	background-repeat:no-repeat;
+}
+
+img
+{
+  border-radius:50%;
+  width:400px;
+  border: 3px solid blue;
+  padding: 3px;
+}
+
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+  font-size:25px !important;
+}
+p{
+  font-size:28px;
+  color:#1A237E;  
+    font-family: 'Great Vibes', cursive;
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:10px;
+    font-size:18px;
+    text-align:center;
+}
+#name{
+  color:#880E4F;
+font-family: 'Great Vibes', cursive;
+    font-size:30px !important;
+}
+.menu{
+   list-style: none;
+    font-family:cursive;
+   float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.link{
+    color:blue !important;
+    display: inline;
+    padding-top:0px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+    font-family: 'Great Vibes', cursive; !important;
+    font-size:45px;
+}
+
+
+   .link:hover
+{
+    background-color:lightyellow;
+}
+#welcome{
+     padding:70px;
+    text-align:center:
+}
+
+#My work a{
+    font-size: :30px;
+    
+}
+#References a{
+    font-size: :30px;
+    
+}
+
+.button {
+  background-color: coral;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    border:3px solid blue;
+}
+a
+{
+  text-decoration:none;
+    color:crimson;
+    font-size:20px;
+    font-weight:bold;
+}
+#name2{
+      color:#880E4F;
+font-family: 'Great Vibes', cursive;
+    font-size:30px !important;
+}
+#picture{
+    width:auto;
+    height:300px;
+   border-radius:0%;
+    margin:20px;
+}
+.inspiration
+{
+padding-top:20px;
+}
+
+#picture{
+transition: transform .2s;
+border: 5px solid blue;
+}
+
+#picture:hover {
+    transform: scale(0.9);
+}
+
+#contact a{
+    font-size: 20px !important;
+   font-family: 'Great Vibes', cursive; !important;
+    color:blue;  
+}
+
+#contact{
+     padding-top: 20px;
+  
+}
+#contact iframe{
+      width:100%;
+}
